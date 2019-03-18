@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestAll">
+
+    <test name="Annotations">
+        <classes>
+            <class name="Variables" />
+            <class name="Registration" />
+            <class name="SignINAndBook" />
+            <class name="sameCity" />
+            <class name="BookWithNoDetails" />
+            <class name="Date" />
+
+        </classes>
+    </test>
+</suite>

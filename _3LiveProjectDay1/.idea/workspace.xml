@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1480215-4791-489c-b0c5-05ab45900488" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.~lock.Introduction_to_HtmlCss.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2/src/test/java/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2/src/test/java/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2/target/test-classes/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2/target/test-classes/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/SortBySalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/SortBySalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/SpecialStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/SpecialStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/src/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/src/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_2/out/production/day_2/Question_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day_2/out/production/day_2/Question_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_2/src/Question_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day_2/src/Question_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/out/production/exercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/out/production/exercise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/out/production/exercise/Question_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/out/production/exercise/Question_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/out/production/exercise/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/out/production/exercise/StringClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/src/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/src/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumDay2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumDay2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumDay2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumDay2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q11_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q11_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q4_5_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q4_5_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/script/src/Q11_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/script/src/Q11_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/script/src/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/script/src/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/script/src/Q4_5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/script/src/Q4_5_6.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/_3LiveProjectDay1$Registration_validRegistration.ic" NAME="Registration.validRegistration Coverage Results" MODIFIED="1552890587124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1911861099">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1949" />
+          <entry key="Properties" value="367" />
+          <entry key="XML" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Variables.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Registration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testData.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SignINAndBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-195">
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/sameCity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Date.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BookWithNoDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Contact Information</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testData.properties" />
+        <option value="$PROJECT_DIR$/TestNg.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Registration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Variables.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BookWithNoDetails.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Date.java" />
+        <option value="$PROJECT_DIR$/src/test/java/sameCity.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SignINAndBook.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="87" />
+    <option name="y" value="70" />
+    <option name="width" value="1279" />
+    <option name="height" value="687" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_3LiveProjectDay1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_3LiveProjectDay1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552900095757" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./home/ttn/assignment/_3LiveProjectDay1/TestNg.xml">
+    <configuration name="SignINAndBook (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="_3LiveProjectDay1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignINAndBook" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignINAndBook (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="_3LiveProjectDay1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignINAndBook" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignINAndBook" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="_3LiveProjectDay1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignINAndBook" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignINAndBook.successfulBooking" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="_3LiveProjectDay1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignINAndBook" />
+      <option name="METHOD_NAME" value="successfulBooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="_3LiveProjectDay1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" />
+      <item itemvalue="TestNG.SignINAndBook.successfulBooking" />
+      <item itemvalue="TestNG.SignINAndBook (2)" />
+      <item itemvalue="TestNG.SignINAndBook" />
+      <item itemvalue="TestNG.SignINAndBook (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" />
+        <item itemvalue="TestNG.SignINAndBook (1)" />
+        <item itemvalue="TestNG.SignINAndBook" />
+        <item itemvalue="TestNG.SignINAndBook (2)" />
+        <item itemvalue="TestNG.SignINAndBook.successfulBooking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1480215-4791-489c-b0c5-05ab45900488" name="Default Changelist" comment="" />
+      <created>1552629442125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552629442125</updated>
+      <workItem from="1552629448634" duration="1779000" />
+      <workItem from="1552631944853" duration="15163000" />
+      <workItem from="1552884486357" duration="15003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Registration_validRegistration - 2019.03.18 at 14h 01m 21s.xml">
+      <configuration name="Registration.validRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Registration_validRegistration - 2019.03.18 at 14h 02m 31s.xml">
+      <configuration name="Registration.validRegistration" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignINAndBook_successfulBooking - 2019.03.18 at 14h 03m 39s.xml">
+      <configuration name="SignINAndBook.successfulBooking" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__3LiveProjectDay1_TestNg_xml - 2019.03.18 at 14h 05m 05s.xml">
+      <configuration name="/home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignINAndBook_(2) - 2019.03.18 at 14h 07m 15s.xml">
+      <configuration name="SignINAndBook (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignINAndBook - 2019.03.18 at 14h 08m 15s.xml">
+      <configuration name="SignINAndBook" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SignINAndBook_(1) - 2019.03.18 at 14h 15m 58s.xml">
+      <configuration name="SignINAndBook (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__3LiveProjectDay1_TestNg_xml - 2019.03.18 at 14h 16m 36s.xml">
+      <configuration name="/home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__3LiveProjectDay1_TestNg_xml - 2019.03.18 at 14h 20m 30s.xml">
+      <configuration name="/home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__3LiveProjectDay1_TestNg_xml - 2019.03.18 at 14h 28m 13s.xml">
+      <configuration name="/home/ttn/assignment/_3LiveProjectDay1/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44698206" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952693" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25379092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952693" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/driver/geckodriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver/chromedriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testData.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SignINAndBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sameCity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BookWithNoDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Variables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
